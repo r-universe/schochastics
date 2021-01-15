@@ -3,3 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "graphlayouts"]
+	path = graphlayouts
+	url = https://github.com/schochastics/graphlayouts
+	shallow = true
+[submodule "netrankr"]
+	path = netrankr
+	url = https://github.com/schochastics/netrankr
+	shallow = true
+[submodule "signnet"]
+	path = signnet
+	url = https://github.com/schochastics/signnet
+	shallow = true
+[submodule "snahelper"]
+	path = snahelper
+	url = https://github.com/schochastics/snahelper
+	shallow = true
