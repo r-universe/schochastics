@@ -8,22 +8,18 @@
 	url = https://github.com/schochastics/graphlayouts
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "netrankr"]
 	path = netrankr
 	url = https://github.com/schochastics/netrankr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "signnet"]
 	path = signnet
 	url = https://github.com/schochastics/signnet
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "snahelper"]
 	path = snahelper
 	url = https://github.com/schochastics/snahelper
 	shallow = true
 	registered = true
-	oncran = true

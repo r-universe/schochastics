@@ -1,0 +1,18 @@
+[
+  {
+    "package": "graphlayouts",
+    "oncran": true
+  },
+  {
+    "package": "netrankr",
+    "oncran": true
+  },
+  {
+    "package": "signnet",
+    "oncran": true
+  },
+  {
+    "package": "snahelper",
+    "oncran": true
+  }
+]
