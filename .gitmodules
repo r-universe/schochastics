@@ -3,6 +3,31 @@
 	url = https://github.com/schochastics/universe
 	shallow = true
 	branch = HEAD
+[submodule "graphlayouts"]
+	path = graphlayouts
+	url = https://github.com/schochastics/graphlayouts
+	shallow = true
+	registered = true
+[submodule "netrankr"]
+	path = netrankr
+	url = https://github.com/schochastics/netrankr
+	shallow = true
+	registered = true
+[submodule "snahelper"]
+	path = snahelper
+	url = https://github.com/schochastics/snahelper
+	shallow = true
+	registered = true
+[submodule "signnet"]
+	path = signnet
+	url = https://github.com/schochastics/signnet
+	shallow = true
+	registered = true
+[submodule "edgebundle"]
+	path = edgebundle
+	url = https://github.com/schochastics/edgebundle
+	shallow = true
+	registered = true
 [submodule "networkdata"]
 	path = networkdata
 	url = https://github.com/schochastics/networkdata
