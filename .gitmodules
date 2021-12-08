@@ -1,25 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/schochastics/universe
 	shallow = true
 	branch = HEAD
-[submodule "graphlayouts"]
-	path = graphlayouts
-	url = https://github.com/schochastics/graphlayouts
+[submodule "networkdata"]
+	path = networkdata
+	url = https://github.com/schochastics/networkdata
 	shallow = true
 	registered = true
-[submodule "netrankr"]
-	path = netrankr
-	url = https://github.com/schochastics/netrankr
+[submodule "roughnet"]
+	path = roughnet
+	url = https://github.com/schochastics/roughnet
 	shallow = true
 	registered = true
-[submodule "signnet"]
-	path = signnet
-	url = https://github.com/schochastics/signnet
+[submodule "roughsf"]
+	path = roughsf
+	url = https://github.com/schochastics/roughsf
 	shallow = true
 	registered = true
-[submodule "snahelper"]
-	path = snahelper
-	url = https://github.com/schochastics/snahelper
+[submodule "netUtils"]
+	path = netUtils
+	url = https://github.com/schochastics/netUtils
 	shallow = true
 	registered = true

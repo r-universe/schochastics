@@ -1,18 +1,14 @@
 [
   {
-    "package": "graphlayouts",
-    "oncran": true
+    "package": "networkdata"
   },
   {
-    "package": "netrankr",
-    "oncran": true
+    "package": "roughnet"
   },
   {
-    "package": "signnet",
-    "oncran": true
+    "package": "roughsf"
   },
   {
-    "package": "snahelper",
-    "oncran": true
+    "package": "netUtils"
   }
 ]
