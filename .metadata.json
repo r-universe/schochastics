@@ -30,5 +30,8 @@
   },
   {
     "package": "netUtils"
+  },
+  {
+    "package": "rokemon"
   }
 ]

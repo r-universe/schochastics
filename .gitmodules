@@ -48,3 +48,8 @@
 	url = https://github.com/schochastics/netUtils
 	shallow = true
 	registered = true
+[submodule "rokemon"]
+	path = rokemon
+	url = https://github.com/schochastics/rokemon
+	shallow = true
+	registered = true
