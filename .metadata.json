@@ -17,7 +17,7 @@
   },
   {
     "package": "edgebundle",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "networkdata"
