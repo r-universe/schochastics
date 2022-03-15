@@ -53,3 +53,8 @@
 	url = https://github.com/schochastics/rokemon
 	shallow = true
 	registered = true
+[submodule "levelnet"]
+	path = levelnet
+	url = https://github.com/schochastics/levelnet
+	shallow = true
+	registered = true
