@@ -23,7 +23,8 @@
     "package": "networkdata"
   },
   {
-    "package": "roughnet"
+    "package": "roughnet",
+    "oncran": false
   },
   {
     "package": "roughsf"
