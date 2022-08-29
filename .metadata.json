@@ -30,7 +30,8 @@
     "package": "roughsf"
   },
   {
-    "package": "netUtils"
+    "package": "netUtils",
+    "oncran": true
   },
   {
     "package": "Rokemon"
