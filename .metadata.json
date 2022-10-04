@@ -27,7 +27,8 @@
     "oncran": false
   },
   {
-    "package": "roughsf"
+    "package": "roughsf",
+    "oncran": false
   },
   {
     "package": "netUtils",
