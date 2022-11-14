@@ -13,6 +13,11 @@
 	url = https://github.com/schochastics/netrankr
 	shallow = true
 	registered = true
+[submodule "rtoot"]
+	path = rtoot
+	url = https://github.com/schochastics/rtoot
+	shallow = true
+	registered = true
 [submodule "snahelper"]
 	path = snahelper
 	url = https://github.com/schochastics/snahelper

@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "rtoot",
+    "oncran": false
+  },
+  {
     "package": "snahelper",
     "oncran": true
   },
