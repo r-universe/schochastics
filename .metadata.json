@@ -9,7 +9,7 @@
   },
   {
     "package": "rtoot",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "snahelper",
