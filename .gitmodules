@@ -63,3 +63,8 @@
 	url = https://github.com/schochastics/levelnet
 	shallow = true
 	registered = true
+[submodule "PSAWR"]
+	path = PSAWR
+	url = https://github.com/schochastics/PSAWR
+	shallow = true
+	registered = true
