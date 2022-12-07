@@ -28,7 +28,7 @@
   },
   {
     "package": "roughnet",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "roughsf",
