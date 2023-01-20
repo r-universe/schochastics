@@ -68,8 +68,8 @@
 	url = https://github.com/schochastics/PSAWR
 	shallow = true
 	registered = true
-[submodule "RTumblr"]
-	path = RTumblr
-	url = https://github.com/schochastics/RTumblr
+[submodule "Rtumblr"]
+	path = Rtumblr
+	url = https://github.com/schochastics/Rtumblr
 	shallow = true
 	registered = true
