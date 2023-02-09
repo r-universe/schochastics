@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/schochastics/universe
+	url = https://github.com/schochastics/schochastics.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "graphlayouts"]
