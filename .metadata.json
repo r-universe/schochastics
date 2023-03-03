@@ -45,7 +45,8 @@
     "package": "levelnet"
   },
   {
-    "package": "PSAWR"
+    "package": "PSAWR",
+    "oncran": true
   },
   {
     "package": "Rtumblr"
