@@ -73,3 +73,8 @@
 	url = https://github.com/schochastics/Rtumblr
 	shallow = true
 	registered = true
+[submodule "webtrackR"]
+	path = webtrackR
+	url = https://github.com/schochastics/webtrackR
+	shallow = true
+	registered = true
