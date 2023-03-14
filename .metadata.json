@@ -52,6 +52,7 @@
     "package": "Rtumblr"
   },
   {
-    "package": "webtrackR"
+    "package": "webtrackR",
+    "oncran": true
   }
 ]
