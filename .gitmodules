@@ -78,3 +78,8 @@
 	url = https://github.com/schochastics/webtrackR
 	shallow = true
 	registered = true
+[submodule "webbotparseR"]
+	path = webbotparseR
+	url = https://github.com/schochastics/webbotparseR
+	shallow = true
+	registered = true
