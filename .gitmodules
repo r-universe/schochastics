@@ -1,85 +1,52 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/schochastics/schochastics.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "graphlayouts"]
 	path = graphlayouts
 	url = https://github.com/schochastics/graphlayouts
-	shallow = true
-	registered = true
 [submodule "netrankr"]
 	path = netrankr
 	url = https://github.com/schochastics/netrankr
-	shallow = true
-	registered = true
 [submodule "rtoot"]
 	path = rtoot
 	url = https://github.com/schochastics/rtoot
-	shallow = true
-	registered = true
 [submodule "snahelper"]
 	path = snahelper
 	url = https://github.com/schochastics/snahelper
-	shallow = true
-	registered = true
 [submodule "signnet"]
 	path = signnet
 	url = https://github.com/schochastics/signnet
-	shallow = true
-	registered = true
 [submodule "edgebundle"]
 	path = edgebundle
 	url = https://github.com/schochastics/edgebundle
-	shallow = true
-	registered = true
 [submodule "networkdata"]
 	path = networkdata
 	url = https://github.com/schochastics/networkdata
-	shallow = true
-	registered = true
 [submodule "roughnet"]
 	path = roughnet
 	url = https://github.com/schochastics/roughnet
-	shallow = true
-	registered = true
 [submodule "roughsf"]
 	path = roughsf
 	url = https://github.com/schochastics/roughsf
-	shallow = true
-	registered = true
 [submodule "netUtils"]
 	path = netUtils
 	url = https://github.com/schochastics/netUtils
-	shallow = true
-	registered = true
 [submodule "Rokemon"]
 	path = Rokemon
 	url = https://github.com/schochastics/rokemon
-	shallow = true
-	registered = true
 [submodule "levelnet"]
 	path = levelnet
 	url = https://github.com/schochastics/levelnet
-	shallow = true
-	registered = true
 [submodule "PSAWR"]
 	path = PSAWR
 	url = https://github.com/schochastics/PSAWR
-	shallow = true
-	registered = true
 [submodule "Rtumblr"]
 	path = Rtumblr
 	url = https://github.com/schochastics/Rtumblr
-	shallow = true
-	registered = true
 [submodule "webtrackR"]
 	path = webtrackR
 	url = https://github.com/schochastics/webtrackR
-	shallow = true
-	registered = true
 [submodule "webbotparseR"]
 	path = webbotparseR
 	url = https://github.com/schochastics/webbotparseR
-	shallow = true
-	registered = true
