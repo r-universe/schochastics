@@ -50,3 +50,6 @@
 [submodule "webbotparseR"]
 	path = webbotparseR
 	url = https://github.com/schochastics/webbotparseR
+[submodule "stabilityAI"]
+	path = stabilityAI
+	url = https://github.com/schochastics/stabilityAI
