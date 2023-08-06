@@ -2,24 +2,30 @@
 	path = .registry
 	url = https://github.com/schochastics/schochastics.r-universe.dev
 	branch = HEAD
-[submodule "graphlayouts"]
-	path = graphlayouts
-	url = https://github.com/schochastics/graphlayouts
-[submodule "netrankr"]
-	path = netrankr
-	url = https://github.com/schochastics/netrankr
-[submodule "rtoot"]
-	path = rtoot
-	url = https://github.com/schochastics/rtoot
-[submodule "snahelper"]
-	path = snahelper
-	url = https://github.com/schochastics/snahelper
-[submodule "signnet"]
-	path = signnet
-	url = https://github.com/schochastics/signnet
+[submodule "PSAWR"]
+	path = PSAWR
+	url = https://github.com/schochastics/PSAWR
+[submodule "Rokemon"]
+	path = Rokemon
+	url = https://github.com/schochastics/rokemon
+[submodule "Rtumblr"]
+	path = Rtumblr
+	url = https://github.com/schochastics/Rtumblr
 [submodule "edgebundle"]
 	path = edgebundle
 	url = https://github.com/schochastics/edgebundle
+[submodule "graphlayouts"]
+	path = graphlayouts
+	url = https://github.com/schochastics/graphlayouts
+[submodule "levelnet"]
+	path = levelnet
+	url = https://github.com/schochastics/levelnet
+[submodule "netUtils"]
+	path = netUtils
+	url = https://github.com/schochastics/netUtils
+[submodule "netrankr"]
+	path = netrankr
+	url = https://github.com/schochastics/netrankr
 [submodule "networkdata"]
 	path = networkdata
 	url = https://github.com/schochastics/networkdata
@@ -29,27 +35,21 @@
 [submodule "roughsf"]
 	path = roughsf
 	url = https://github.com/schochastics/roughsf
-[submodule "netUtils"]
-	path = netUtils
-	url = https://github.com/schochastics/netUtils
-[submodule "Rokemon"]
-	path = Rokemon
-	url = https://github.com/schochastics/rokemon
-[submodule "levelnet"]
-	path = levelnet
-	url = https://github.com/schochastics/levelnet
-[submodule "PSAWR"]
-	path = PSAWR
-	url = https://github.com/schochastics/PSAWR
-[submodule "Rtumblr"]
-	path = Rtumblr
-	url = https://github.com/schochastics/Rtumblr
-[submodule "webtrackR"]
-	path = webtrackR
-	url = https://github.com/schochastics/webtrackR
-[submodule "webbotparseR"]
-	path = webbotparseR
-	url = https://github.com/schochastics/webbotparseR
+[submodule "rtoot"]
+	path = rtoot
+	url = https://github.com/schochastics/rtoot
+[submodule "signnet"]
+	path = signnet
+	url = https://github.com/schochastics/signnet
+[submodule "snahelper"]
+	path = snahelper
+	url = https://github.com/schochastics/snahelper
 [submodule "stabilityAI"]
 	path = stabilityAI
 	url = https://github.com/schochastics/stabilityAI
+[submodule "webbotparseR"]
+	path = webbotparseR
+	url = https://github.com/schochastics/webbotparseR
+[submodule "webtrackR"]
+	path = webtrackR
+	url = https://github.com/schochastics/webtrackR
