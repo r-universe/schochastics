@@ -41,9 +41,6 @@
 [submodule "roughsf"]
 	path = roughsf
 	url = https://github.com/schochastics/roughsf
-[submodule "rtoot"]
-	path = rtoot
-	url = https://github.com/schochastics/rtoot
 [submodule "signnet"]
 	path = signnet
 	url = https://github.com/schochastics/signnet
