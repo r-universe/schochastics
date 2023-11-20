@@ -11,9 +11,6 @@
 [submodule "Rtumblr"]
 	path = Rtumblr
 	url = https://github.com/schochastics/Rtumblr
-[submodule "adaR"]
-	path = adaR
-	url = https://github.com/schochastics/adaR
 [submodule "domainator"]
 	path = domainator
 	url = https://github.com/schochastics/domainator
