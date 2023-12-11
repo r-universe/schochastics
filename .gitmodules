@@ -5,6 +5,9 @@
 [submodule "PSAWR"]
 	path = PSAWR
 	url = https://github.com/schochastics/PSAWR
+[submodule "RFPNG"]
+	path = RFPNG
+	url = https://github.com/schochastics/RFPNG
 [submodule "Rokemon"]
 	path = Rokemon
 	url = https://github.com/schochastics/rokemon
