@@ -14,6 +14,9 @@
 [submodule "Rtumblr"]
 	path = Rtumblr
 	url = https://github.com/schochastics/Rtumblr
+[submodule "chronos"]
+	path = chronos
+	url = https://github.com/schochastics/chronos
 [submodule "dialrs"]
 	path = dialrs
 	url = https://github.com/schochastics/dialrs
