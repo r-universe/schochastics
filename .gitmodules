@@ -44,6 +44,9 @@
 [submodule "roughsf"]
 	path = roughsf
 	url = https://github.com/schochastics/roughsf
+[submodule "shortuuid"]
+	path = shortuuid
+	url = https://github.com/schochastics/shortuuid
 [submodule "signnet"]
 	path = signnet
 	url = https://github.com/schochastics/signnet
