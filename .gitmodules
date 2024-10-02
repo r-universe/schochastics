@@ -38,6 +38,9 @@
 [submodule "networkdata"]
 	path = networkdata
 	url = https://github.com/schochastics/networkdata
+[submodule "oaqc"]
+	path = oaqc
+	url = https://github.com/schochastics/oaqc
 [submodule "roughnet"]
 	path = roughnet
 	url = https://github.com/schochastics/roughnet
