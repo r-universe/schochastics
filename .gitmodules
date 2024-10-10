@@ -59,6 +59,12 @@
 [submodule "stabilityAI"]
 	path = stabilityAI
 	url = https://github.com/schochastics/stabilityAI
+[submodule "startifyR"]
+	path = startifyR
+	url = https://github.com/schochastics/startifyR
+[submodule "strzip"]
+	path = strzip
+	url = https://github.com/schochastics/strzip
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/schochastics/timeless
