@@ -41,6 +41,9 @@
 [submodule "oaqc"]
 	path = oaqc
 	url = https://github.com/schochastics/oaqc
+[submodule "paperwizard"]
+	path = paperwizard
+	url = https://github.com/schochastics/paperwizard
 [submodule "roughnet"]
 	path = roughnet
 	url = https://github.com/schochastics/roughnet
