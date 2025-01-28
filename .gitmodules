@@ -71,6 +71,9 @@
 [submodule "timeless"]
 	path = timeless
 	url = https://github.com/schochastics/timeless
+[submodule "urlparser"]
+	path = urlparser
+	url = https://github.com/schochastics/urlparser
 [submodule "webbotparseR"]
 	path = webbotparseR
 	url = https://github.com/schochastics/webbotparseR
