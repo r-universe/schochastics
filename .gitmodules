@@ -26,6 +26,9 @@
 [submodule "edgebundle"]
 	path = edgebundle
 	url = https://github.com/schochastics/edgebundle
+[submodule "ggrough2"]
+	path = ggrough2
+	url = https://github.com/schochastics/ggrough2
 [submodule "graphlayouts"]
 	path = graphlayouts
 	url = https://github.com/schochastics/graphlayouts
