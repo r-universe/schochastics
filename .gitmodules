@@ -50,6 +50,9 @@
 [submodule "paperwizard"]
 	path = paperwizard
 	url = https://github.com/schochastics/paperwizard
+[submodule "rkeepass"]
+	path = rkeepass
+	url = https://github.com/schochastics/rkeepass
 [submodule "roughnet"]
 	path = roughnet
 	url = https://github.com/schochastics/roughnet
