@@ -83,6 +83,9 @@
 [submodule "urlparser"]
 	path = urlparser
 	url = https://github.com/schochastics/urlparser
+[submodule "vhsR"]
+	path = vhsR
+	url = https://github.com/schochastics/vhsR
 [submodule "webbotparseR"]
 	path = webbotparseR
 	url = https://github.com/schochastics/webbotparseR
