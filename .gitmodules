@@ -83,6 +83,18 @@
 [submodule "urlparser"]
 	path = urlparser
 	url = https://github.com/schochastics/urlparser
+[submodule "vellum"]
+	path = vellum
+	url = https://github.com/r-vellum/vellum
+[submodule "vellumplot"]
+	path = vellumplot
+	url = https://github.com/r-vellum/vellumplot
+[submodule "vellumverse"]
+	path = vellumverse
+	url = https://github.com/r-vellum/vellumverse
+[submodule "vellumwidget"]
+	path = vellumwidget
+	url = https://github.com/r-vellum/vellumwidget
 [submodule "vhsR"]
 	path = vhsR
 	url = https://github.com/schochastics/vhsR
